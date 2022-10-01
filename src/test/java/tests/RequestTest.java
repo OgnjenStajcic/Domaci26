@@ -96,4 +96,7 @@ public class RequestTest {
         logOutPage.logout();
     }
 
+    // i kad manuelno odradim, i automatski, nakon logouta mi otvori stranu sa formom koja vec ima popunjeno username i
+    // password, nikako nece da ih obrise
+
 }
